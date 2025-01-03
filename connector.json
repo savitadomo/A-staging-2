@@ -2,16 +2,20 @@
   "images": [],
   "name": "staging 2",
   "connectorType": "datagrid",
-  "type": "none",
+  "type": "basic",
   "authCodeText": null,
-  "userName": null,
-  "password": null,
+  "userName": "testuser",
+  "password": "123456789",
   "apiKey": null,
   "clientKey": null,
   "clientSecret": null,
   "userId": null,
   "customAccountFields": [
-    {}
+    {
+      "label": null,
+      "value": null,
+      "type": null
+    }
   ],
   "domoClientId": null,
   "domoClientSecret": null,

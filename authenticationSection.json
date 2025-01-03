@@ -1,8 +1,8 @@
 {
-  "type": "none",
+  "type": "basic",
   "authCodeText": null,
-  "userName": null,
-  "password": null,
+  "userName": "****",
+  "password": "****",
   "apiKey": null,
   "clientKey": null,
   "clientSecret": null,
@@ -12,7 +12,11 @@
   "oauthPassword": null,
   "scope": null,
   "customAccountFields": [
-    {}
+    {
+      "label": null,
+      "value": null,
+      "type": null
+    }
   ],
   "additionalParameters": null,
   "tokenAddlParams": null,
